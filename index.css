@@ -1,5 +1,5 @@
 body {
-    background-image:url(/assets/pizza-background.jpg);
+    background-image:url("assets/pizza-background.jpg");
     justify-content: center;
     align-items: center;
     display: flex;
